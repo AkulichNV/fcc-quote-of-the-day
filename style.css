@@ -1,0 +1,24 @@
+body {
+    background-image:url('./assets/img/flower.jpg');
+    background-size:cover;
+    background-attachment:fixed;
+    color: black;
+    font-family: 'Brush Script MT', cursive !important;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.box {
+    background: white;
+    height: 200px;
+    padding: 5px; 
+    opacity: 0.5;
+    filter: alpha(Opacity=50);
+    box-shadow: 7px 7px 12px rgba(0,0,0,0.5);
+    border-radius: 10px 10px 10px 10px;
+    margin-bottom: 20px;
+}
+.quote {
+    font-size: 25px;
+    font-weight: 400;
+}
